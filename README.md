@@ -1,2 +1,2 @@
 # sinatra
-"ruby app.rb" to run app
+run "$ ruby app.rb" to start server
